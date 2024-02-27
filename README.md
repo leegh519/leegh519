@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href='https://play.google.com/store/apps/details?id=com.chbb.rundate&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.chbb.rundate&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img alt='다운로드하기 Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png'/></a>
+<a href="https://apps.apple.com/kr/app/%EB%A0%88%EC%9D%B4%EC%8A%A4%EC%BA%98%EB%A6%B0%EB%8D%94/id6476253923?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ko-kr?size=250x83&amp;releaseDate=1705536000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
