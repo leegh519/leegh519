@@ -11,7 +11,7 @@
     
 ## 만든 앱들
 ### 레이스 캘린더
-마라톤 대회일정 앱
+- 마라톤 대회일정 앱
 <br/>
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/9e/e2/2b9ee2fa-01b3-587d-f363-07dc90204864/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/540x540bb.jpg" alt="레이스캘린더" style="width: 170px; height: 170px; border-radius: 22%; overflow: hidden; display: inline-block; vertical-align: middle;">
 <br/>
