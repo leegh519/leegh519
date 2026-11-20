@@ -9,7 +9,3 @@
     </div>
     </div>
 
-    
-## 만든 앱들
-### 레이스 캘린더
-<a href='https://racecalendar.kr'>레이스 캘린더</a>
